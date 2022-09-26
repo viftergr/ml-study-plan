@@ -21,7 +21,7 @@ Watch the video on YouTube for instructions:
 ## The Plan
 
 ### 0. Prerequisites
-- [ ] Linear Algebra and Multivariate Calculus
+- [.] Linear Algebra and Multivariate Calculus
     - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
     - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
